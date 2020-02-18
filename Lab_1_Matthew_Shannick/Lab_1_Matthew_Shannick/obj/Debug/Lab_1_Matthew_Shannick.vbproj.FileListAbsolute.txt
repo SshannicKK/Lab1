@@ -1,0 +1,12 @@
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\bin\Debug\Lab_1_Matthew_Shannick.exe.config
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\bin\Debug\Lab_1_Matthew_Shannick.exe
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\bin\Debug\Lab_1_Matthew_Shannick.pdb
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\bin\Debug\Lab_1_Matthew_Shannick.xml
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.vbprojAssemblyReference.cache
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.frmAverageUnitsShipped.resources
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.Resources.resources
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.vbproj.GenerateResource.cache
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.vbproj.CoreCompileInputs.cache
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.exe
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.xml
+C:\Users\Mjsha\Source\Repos\Lab_1_Matthew_Shannick\Lab_1_Matthew_Shannick\obj\Debug\Lab_1_Matthew_Shannick.pdb
